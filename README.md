@@ -37,7 +37,7 @@ Fruit-Classification/
 
 🚀 Installation & Usage                                                                                                                                                                                              
 1️⃣ Clone the Repository                                                                                                                                                                                              
-git clone https://github.com/yourusername/Fruit-Classification.git                                                                                                                                                   
+git clone https://github.com/shamikh-sameer/Fruits-Classifier.git                                                                                                                                                    
 cd Fruit-Classification                                                                                                                                                                                              
 
 2️⃣ Install Dependencies                                                                                                                                                                                              
